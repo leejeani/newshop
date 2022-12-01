@@ -12,4 +12,6 @@ public class test {
 	
 	int bb = 100;
 	int te = 220;
+	
+	int aa = 1000;
 }
