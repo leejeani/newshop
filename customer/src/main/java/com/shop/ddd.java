@@ -10,4 +10,6 @@ public class ddd {
 	int a = 10;
 	int b = 10;
 	int bs = 10;
+	
+	int aaaa = 10000;
 }
