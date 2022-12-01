@@ -6,4 +6,5 @@ public class test {
 	public void aa() {}
 	public void bb() {}
 	public void cc() {}
+	public void ccs() {}
 }
