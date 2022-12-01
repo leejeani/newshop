@@ -9,5 +9,6 @@ public class ddd {
 	int dsss;
 	int sssss;
 	int e;
+	int aaaa;
 	
 }
