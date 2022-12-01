@@ -9,4 +9,6 @@ public class test {
  int afafa;
  int aaaa;
  int ads;
+ int aaaaa;
+ int cccc;
 }
