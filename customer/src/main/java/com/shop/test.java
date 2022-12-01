@@ -7,4 +7,5 @@ public class test {
 	public void bb() {}
 	public void cc() {}
 	public void ccs() {}
+	int a = 10;
 }
