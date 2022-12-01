@@ -11,4 +11,5 @@ public class test {
 	
 	
 	int bb = 100;
+	int te = 10;
 }
