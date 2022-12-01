@@ -18,4 +18,6 @@ public class ddd {
 	
 	int bbbd = 100;
 	int ssss = 100;
+	
+	int aaa = 10;
 }
