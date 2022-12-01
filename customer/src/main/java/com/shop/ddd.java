@@ -6,5 +6,7 @@ public class ddd {
 	int c;
 	int ss;
 	int sss;
+	int dsss;
+	int sssss;
 	
 }
