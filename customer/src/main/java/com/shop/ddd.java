@@ -13,4 +13,9 @@ public class ddd {
 	
 	int aaaa = 10000;
 	int bbb = 1000;
+	
+	
+	
+	int bbbd = 100;
+	int ssss = 100;
 }
