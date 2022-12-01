@@ -8,4 +8,5 @@ public class test {
  int sfs;
  int afafa;
  int aaaa;
+ int ads;
 }
