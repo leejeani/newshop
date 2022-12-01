@@ -8,4 +8,7 @@ public class test {
 	public void cc() {}
 	public void ccs() {}
 	int a = 10;
+	
+	
+	int bb = 100;
 }
